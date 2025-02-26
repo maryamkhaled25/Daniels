@@ -1,0 +1,65 @@
+@media screen and (max-width:975px) {
+    .container{
+       max-width: 970px;
+    }
+
+    .clients .inner-content  p {
+        width: 766px;
+       
+    }
+
+    .clients .carousel-inner{
+        overflow: visible;
+    }
+
+
+    .contact form .item{
+        margin-bottom: 0px;
+    }
+
+
+    .contact form .btn{
+       margin-top: 15px;
+    }
+}
+
+
+@media screen and (max-width:768px) {
+    .container{
+       max-width: 750px;
+       /* width: auto; */
+    }
+
+    header .layer h1{
+        font-weight: 200;
+        font-size: 2rem;
+        padding: 12px;
+    }
+
+    .clients .inner-content  p {
+        width: 453px;
+       
+    }
+
+    
+
+
+    .contact form .item{
+        margin-bottom: 0px;
+    }
+
+    .contact form {
+        padding: 0 0px;
+    
+    }
+
+
+    .contact form .btn{
+       margin-top: 15px;
+    }
+
+
+}
+
+
+    
